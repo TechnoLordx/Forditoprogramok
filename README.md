@@ -1,7 +1,7 @@
 # Forditoprogramok
 
-**Lekszikális elemző
+*Lekszikális elemző
 
-**Egyszerű LL1 elemzés
+*Egyszerű LL1 elemzés
 
-**Lambda mentes LL1 elemző
+*Lambda mentes LL1 elemző
