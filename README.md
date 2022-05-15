@@ -1,7 +1,7 @@
 # Forditoprogramok
 
-Lekszikális elemző
+Lekszikális elemző (java)
 
-Egyszerű LL1 elemzés
+Egyszerű LL1 elemzés (c++)
 
-Lambda mentes LL1 elemző
+Lambda mentes LL1 elemző (c++)
